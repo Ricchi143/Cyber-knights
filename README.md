@@ -30,7 +30,7 @@ Clone your forked repository to your local machine:
 git clone https://github.com/YOUR_USERNAME/Xplore.git
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username.
+Replace `YOUR_USERNAME` with your GitHub user.
 
 ### 3. Navigate to the Project Directory
 
